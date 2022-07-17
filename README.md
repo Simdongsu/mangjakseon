@@ -51,4 +51,14 @@ Apache Tomcat 9
 # 개발 중 오류 와 해결방안(리뷰관련)
 1. 별점 기능과 리뷰 쓰기 기능을 통합할 때 겪었던 어려움 리뷰쓰기와 별점기능을 따로 개발을 했기에 통합시 어려움을 겪음.
 
-해결 - 리뷰 entity에 별점 컬럼을 추가하고 dto,repository, service, controller 도 순차적으로 수정 하였음.
+   해결 - 리뷰 entity에 별점 컬럼을 추가하고 dto,repository, service, controller 도 순차적으로 수정 하였음.
+   
+2. 리뷰 작성시 리뷰 데이터가 DB에는 저장 되지만 list를 불러오는 과정에서 오류가 발생
+
+   해결 - ReviewController에서 리뷰목록의 MediaType을 APPLICATION_JSON_VALUE를 이용하여 JSON형태로 불러오도록 제작
+   
+3. 최근에 등록한 리뷰를 가장 윗 부분에 출력하는 Query 작성시 오류 발생
+
+   해결 - Query작성시 내림차순으로 정렬이 되지만 movieId에 해당하는 리뷰만 출력되는 것이 아닌 모든 리뷰가 출력되는 현상이 나타났었고 Query 사용이 미숙하다고 판단 되어 method 명명규칙을 사용하여 해결
+
+
