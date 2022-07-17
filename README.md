@@ -6,4 +6,4 @@
  프로젝트 설명: TMDB사이트의 API를 가져와서 낮은 평점(6점이하, 망작)의 영화를 리뷰하는 사이트를 제작</br?
  
 # 최초 UI설계서
-
+[03_UI설계서.pdf](https://github.com/Simdongsu/mangjakseon/files/9127725/03_UI.pdf)
