@@ -31,6 +31,20 @@ https://mangjakseon.com/</br>
 # 개발환경
 **FrontEnd**
 ```
-HTML5, CSS3, JavaScript, JQuery, Thymeleaf, BootStrap
+HTML5, CSS3, JavaScript, JQuery, Thymeleaf, BootStrap, Ajax
+```
+**BackEnd**
+```
+JAVA, SpringBoot, Spring-Security, Gradle, JPA
+```
+
+**DB**
+```
+MariaDB
+```
+
+**WAS**
+```
+Apache Tomcat 9
 ```
 
