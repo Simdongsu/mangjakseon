@@ -4,8 +4,10 @@ https://mangjakseon.com/</br>
  맡은부분: 리뷰작성, 리뷰 페이지 제작</br>
  팀원: 심동수 외 5명</br>
  프로젝트 기간: 4주 </br>
- 프로젝트 설명: TMDB사이트의 API를 가져와서 낮은 평점(6점이하, 망작)의 영화를 리뷰하는 사이트를 제작</br?
- 
+ 프로젝트 설명: TMDB사이트의 API를 가져와서 낮은 평점(6점이하, 망작)의 영화를 리뷰하는 사이트를 제작</br>
+# 프로젝트 기획
+![기획서](https://user-images.githubusercontent.com/102348698/179401062-d4c07133-480f-4c8b-82f4-be5c99d42c1d.png)
+
 # 일정계획
 ![일정계획](https://user-images.githubusercontent.com/102348698/179400953-1c2a0ec3-4399-4c87-948a-2e0708c1d2a9.png)
 
