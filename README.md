@@ -25,3 +25,6 @@ https://mangjakseon.com/</br>
 ![Image 8](https://user-images.githubusercontent.com/102348698/179400904-d628c1f1-0216-430a-bf7a-91f4b18db93a.png)
 ![Image 9](https://user-images.githubusercontent.com/102348698/179400906-3fc74cce-bfaa-406d-a6fe-c97e2f7dabe0.png)
 
+# ERD
+![이알디](https://user-images.githubusercontent.com/102348698/179401408-f7aa95ed-0771-40f3-800a-70794a3720e6.png)
+
