@@ -5,8 +5,10 @@
  프로젝트 기간: 4주 </br>
  프로젝트 설명: TMDB사이트의 API를 가져와서 낮은 평점(6점이하, 망작)의 영화를 리뷰하는 사이트를 제작</br?
  
-# 최초 UI설계서
+# 일정계획
+![일정계획](https://user-images.githubusercontent.com/102348698/179400953-1c2a0ec3-4399-4c87-948a-2e0708c1d2a9.png)
 
+# 최초 UI설계서
 ![Image 1](https://user-images.githubusercontent.com/102348698/179400892-907f74e4-cd29-4f40-8c6f-60fb7d1552d1.png)
 ![Image 2](https://user-images.githubusercontent.com/102348698/179400894-9467825b-64f9-47f4-a35e-284ccb0c9a03.png)
 ![Image 3](https://user-images.githubusercontent.com/102348698/179400897-6c7a0177-f34e-4809-bc4f-01f3779003e8.png)
