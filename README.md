@@ -47,4 +47,8 @@ MariaDB
 ```
 Apache Tomcat 9
 ```
+ 
+# 개발 중 오류 와 해결방안(리뷰관련)
+1.별점 기능과 리뷰 쓰기 기능을 통합할 때 겪었던 어려움 리뷰쓰기와 별점기능을 따로 개발을 했기에 통합시 어려움을 겪음.
 
+해결 - 리뷰 entity에 별점 컬럼을 추가하고 dto,repository, service, controller 도 순차적으로 수정 하였음.
